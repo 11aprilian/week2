@@ -338,13 +338,13 @@ Teknik manipulasi DOM merupakan teknik yang sangat penting dalam pengembangan we
 - Events adalah sebuah kejadian/kegiatan/interaksi yang user berikan kepada website.
 - Cara memberikan event
 
-    1. HTML Attribute.
+    - HTML Attribute.
 
         ```javascript
         <h1 onclick="alert('selamat datang')">Hallo</h1>
         ```
 
-    2. Event propperty
+    - Event propperty
 
         ```javascript
         <p id="paragraf">click me</p>
@@ -363,7 +363,7 @@ Teknik manipulasi DOM merupakan teknik yang sangat penting dalam pengembangan we
         alert("ini alert")
         }
         ```
-    3. addEventListener()
+    - addEventListener()
         ```javascript
         <button id="btn">klik saya</button>
 
