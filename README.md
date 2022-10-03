@@ -30,15 +30,15 @@
 
 - Cara membuat function
 
-    1. function clasic
+    - Function clasic
         ```javascript
         function myFunction(condition) { }
         ```
-    2. fanction variable
+    - Fanction variable
         ```javascript
         let myFunction = function (condition) { }
         ```
-    3. arrow function
+    - Arrow function
         ```javascript
         let myFunction = (condition) => { }
         ```
